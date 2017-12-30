@@ -1,0 +1,33 @@
+#button-container{
+	padding:5px;
+	margin-bottom: 2px;
+}
+
+.custom-btn{
+	margin-right: 5px;
+}
+
+img{
+	height: 150px;
+	width: 150px;
+	padding:15px;
+}
+
+#gif_container{
+	max-width: 60%;
+	float: left;
+}
+
+.gifUnit{
+	float: left;
+}
+
+#mainForm{
+	float: right;
+	width: 30%;
+	margin-right: 20px;
+}
+
+button{
+	margin-bottom: 2px;
+}
